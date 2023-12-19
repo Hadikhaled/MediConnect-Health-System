@@ -2,9 +2,16 @@
 
 MediConnect is a comprehensive health management system designed to streamline healthcare processes and enhance patient care. This integrated platform connects patients, doctors, lab specialists, and other healthcare providers to ensure a seamless and efficient healthcare experience.
 
+## Database and SQL Overview
+
+MediConnect utilizes a relational database to store and manage healthcare-related data. The database design follows an Entity-Relationship model to represent the relationships between different entities within the system.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Entity Relationship Diagram (ERD)
+The ERD provides a visual representation of the relationships between entities such as Patients, Doctors, Lab Specialists, and more.
 
 ![ERD](erd.png)
+
 
 
 
@@ -46,13 +53,42 @@ MediConnect is a comprehensive health management system designed to streamline h
 
 - Implements a secure user authentication system to protect sensitive health information and ensure data privacy.
 
-## Getting Started
 
-To get started with MediConnect, follow the installation instructions in the [documentation](docs/installation.md).
+### Prerequisites
 
-## Contributing
+- Python [3.8.10]
 
-If you'd like to contribute to MediConnect, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Hadikhaled/MedTestFeatureExtraction.git
+   cd MedTestFeatureExtraction
+   pip install -r requirements.txt
+
+
+
+ ### Contributing
+We welcome contributions from the community! To contribute:
+
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature-name
+3. Make your changes and commit: git commit -am 'Add some feature'
+4. Push to the branch: git push origin feature-name
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. You can find a copy of the license in the [LICENSE](LICENSE) file.
+
+© 2023, ITI 
+
+### Contact
+Hadi Khaled Abdelrhman - hadikhaled705@gmail.com
+
+Project Link: [https://github.com/Hadikhaled/MedTestFeatureExtraction](https://github.com/Hadikhaled/MediConnect-Health-System)
 
 ## License
 
