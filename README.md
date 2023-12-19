@@ -56,7 +56,7 @@ The ERD provides a visual representation of the relationships between entities s
 
 ### Prerequisites
 
-- Python [3.8.10]
+- MS SQL SERVER MANAGMENT 
 
 
 ### Installation
@@ -64,7 +64,7 @@ The ERD provides a visual representation of the relationships between entities s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Hadikhaled/MedTestFeatureExtraction.git
+   git clone https://github.com/Hadikhaled/MediConnect-Health-System.git
    cd MedTestFeatureExtraction
    pip install -r requirements.txt
 
@@ -80,6 +80,7 @@ We welcome contributions from the community! To contribute:
 5. Submit a pull request.
 
 ## License
+MediConnect aims to create a connected and patient-centric healthcare ecosystem, enhancing accessibility, communication, and overall efficiency in healthcare delivery.
 
 This project is licensed under the MIT License. You can find a copy of the license in the [LICENSE](LICENSE) file.
 
@@ -90,8 +91,5 @@ Hadi Khaled Abdelrhman - hadikhaled705@gmail.com
 
 Project Link: [https://github.com/Hadikhaled/MedTestFeatureExtraction](https://github.com/Hadikhaled/MediConnect-Health-System)
 
-## License
-
-This project is licensed under the [Your License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 MediConnect aims to create a connected and patient-centric healthcare ecosystem, enhancing accessibility, communication, and overall efficiency in healthcare delivery.
